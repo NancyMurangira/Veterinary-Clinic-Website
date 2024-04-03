@@ -1,0 +1,42 @@
+.navbar{
+
+    display: flex;
+    justify-content:space-evenly;
+    padding: 60px;
+    
+}
+
+.Column1{
+    display: flex;
+    font-size: xx-large;
+    background-color:rgb(215, 229, 238);
+}
+.girlwithpet{
+    margin-left: 20%;
+    
+}
+
+.header2{
+    display: flex;
+
+}
+.Column3{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: xx-large;
+}
+    
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+}
+.Column4{
+    display: flex;
+}
+.bestVegeterian{
+    margin-right: 50%;
+}
+
+
+
