@@ -23,7 +23,7 @@
 .Column3{
     display: flex;
     justify-content: space-evenly;
-    font-size: xx-large;
+    font-size:xx-large;
 }
     
 .footer{
@@ -37,6 +37,27 @@
 .bestVegeterian{
     margin-right: 50%;
 }
+
+.Column5{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 12%;
+}
+.comment{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.scores{
+    margin-left: 20%;
+}
+.Column6{
+    display: flex;
+}
+.friendly{
+    margin-left: 20%;
+}
+
+
 
 
 
