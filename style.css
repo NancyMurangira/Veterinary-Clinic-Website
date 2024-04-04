@@ -1,8 +1,14 @@
+body{
+    background-color: whitesmoke
+    
+}
+#container{
+    margin: 9%;
+}
 .navbar{
 
-    display: flex;
-    justify-content:space-evenly;
-    padding: 60px;
+    display: inline-flex;
+    gap: 600px;
     
 }
 
@@ -23,16 +29,19 @@
 .Column3{
     display: flex;
     justify-content: space-evenly;
-    font-size:xx-large;
+    font-size:180%;
 }
     
 .footer{
     display: flex;
     justify-content: space-evenly;
     font-size: large;
+    background-color: rgb(209, 197, 197);
 }
 .Column4{
     display: flex;
+    background-color:rgb(215, 229, 238);
+
 }
 .bestVegeterian{
     margin-right: 50%;
@@ -57,6 +66,33 @@
     margin-left: 20%;
 }
 
+.Column8{
+    display: flex;
+    gap: 3%;
+}
+
+.Column9{
+    background-color:rgb(215, 229, 238);
+    text-align: center;
+    border-radius: 12px;
+    width: 85%;
+    height: 100%;
+    margin: auto;
+}
+.bestVegeterian{
+    background-color:rgb(215, 229, 238);
+}
+.service{
+    margin-left:30%;
+    font-size: 200%;
+    color: grey;
+    margin-top: 4%
+}
+@media screen and(min-width: 375px) and (max-width: 667px) {
+    #container{
+        margin: 0%;
+    }  
+}
 
 
 
